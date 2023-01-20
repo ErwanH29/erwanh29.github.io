@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Past Projects
+description: Click here to see some of my favourite past research!
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

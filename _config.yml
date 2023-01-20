@@ -1,6 +1,6 @@
 # site settings
 title: Erwan Hochart
-subtitle: by HTML5 UP
+subtitle: Master's Student
 email: ehochart@gmail.com
 description: Welcome to my very own website
 baseurl: # the subpath of your site, e.g. /blog
@@ -11,7 +11,6 @@ city: Leiden
 state: 
 zip_code: 2312NN
 country: the Netherlands
-phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
