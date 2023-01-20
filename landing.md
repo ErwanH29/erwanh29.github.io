@@ -1,5 +1,5 @@
 ---
-title: The Beauty of Physics
+title: The Beauty of Nature
 layout: landing
 description: 'Posts on random topics I find magical.'
 image: assets/images/pic07.jpg
