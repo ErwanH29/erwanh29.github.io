@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Past Projects
-description: Click here to see some of my favourite past research!
+description: Click here to see some of my past research!
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
