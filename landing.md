@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: The Beauty of Physics
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Posts on random topics I find magical.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
