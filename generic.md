@@ -20,7 +20,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-		<a href="generic.html" class="image fit">
+		<a class="image">
             <img src="{% link assets/images/cosmic_web.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
