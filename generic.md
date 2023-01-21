@@ -2,7 +2,7 @@
 layout: post
 title: Past Projects
 description: Click here to see some of my past research!
-image: assets/images/pic11.jpg
+image: assets/images/past_projects.png
 nav-menu: true
 ---
 <section id="two" class="spotlights">
