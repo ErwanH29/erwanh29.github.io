@@ -15,7 +15,7 @@ nav-menu: true
             <b>Field</b>: Cosmology
             <p><b>Research</b>: A comprehensive comparison of two different algorithms wishing to analyse the cosmic web.
             <p><b>Purpose</b>: The cosmic web is the structure of our Universe on the largest scales. Understanding how the structure forms lets us peer into the nature of our Universe, namely the way gravity acts on the largest scales but also how and to what extent clusters of galaxies or  voids arise.
-            <p><i><a href='https://fse.studenttheses.ub.rug.nl/22546/'>Link to project</a></i>.</p></li>
+            <p><i><a href='https://fse.studenttheses.ub.rug.nl/22546/'>Link to project</a></i>.</li>
 		</ul>
 	</div>
 </div>
