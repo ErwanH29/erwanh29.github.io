@@ -7,21 +7,21 @@ nav-menu: true
 ---
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-            <img src="{% link assets/images/cosmic_web.png %}" alt="" data-position="top center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Cosmic Web Classification: NEXUS+ vs. DisPerSE</h3>
 				</header>
                 <b>Field</b>: Cosmology
-                <p><b>Research</b>: A comprehensive comparison of two different algorithms wishing to analyse the cosmic web.
-                <p><b>Purpose</b>: The cosmic web is the structure of our Universe on the largest scales. Understanding how the structure forms lets us peer into the nature of our Universe, namely the way gravity acts on the largest scales but also how and to what extent clusters of galaxies or  voids arise.
+                <b>Research</b>: A comprehensive comparison of two different algorithms wishing to analyse the cosmic web.
+                <b>Purpose</b>: The cosmic web is the structure of our Universe on the largest scales. Understanding how the structure forms lets us peer into the nature of our Universe, namely the way gravity acts on the largest scales but also how and to what extent clusters of galaxies or  voids arise.
 				<ul class="actions">
 					<li><a href='https://fse.studenttheses.ub.rug.nl/22546/'>Link to project</a></li>
 				</ul>
 			</div>
 		</div>
+		<a href="generic.html" class="image">
+            <img src="{% link assets/images/cosmic_web.png %}" alt="" data-position="top center" />
+		</a>
 	</section>
 </section>
