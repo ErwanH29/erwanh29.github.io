@@ -6,8 +6,16 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<div class="row">
+	<div class="6u 12u$(small)">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+		<h4>Alternate</h4>
+		<ul class="alt">
+			<li><h4>Cosmic Web Classification: NEXUS+ vs. DisPerSE<h4> 
+            <hr />
+            <p> <b> Field <b>: Cosmology</p>
+            <p> <b> Research <b>: A comprehensive comparison of two different algorithms wishing to analyse the cosmic web.</p>
+            <p> <b> Purpose <b>: The cosmic web is the structure of our Universe on the largest scales. To understand the underlying nature of our Universe, it is essential to know how and why we observe its material to spread out as we do.</p>
+            <p> <i> <a href='https://fse.studenttheses.ub.rug.nl/22546/'>Link to project</a>.</p>
+            <p></li>
+		</ul>
