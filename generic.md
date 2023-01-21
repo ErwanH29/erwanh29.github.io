@@ -13,7 +13,7 @@ nav-menu: true
 					<h3>Cosmic Web Classification: NEXUS+ vs. DisPerSE</h3>
 				</header>
                 <b>Field</b>: Cosmology <br>
-                <b>Research</b>: A comprehensive comparison of two different algorithms wishing to analyse the cosmic web. <br>
+                <b>Research</b>: A comprehensive comparison of two different algorithms investigating the cosmic web. <br>
                 <b>Purpose</b>: The cosmic web is the structure of our Universe on the largest scales. Understanding how the structure forms lets us peer into the nature of our Universe, namely the way gravity acts on the largest scales but also how and to what extent clusters of galaxies or  voids arise. <br>
 				<ul class="actions">
 					<li><a href='https://fse.studenttheses.ub.rug.nl/22546/'><i>Link to project</i></a></li>
