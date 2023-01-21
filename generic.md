@@ -9,8 +9,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="alt">
-			<li><h3>Cosmic Web Classification: NEXUS+ vs. DisPerSE</h3> 
-            <hr />
+			<li><h3>Cosmic Web Classification: NEXUS+ vs. DisPerSE</h3>
             <p><span class="image right"><img src="{% link assets/images/cosmic_web.jpg %}" alt="" /></span>
             <b>Field</b>: Cosmology
             <p><b>Research</b>: A comprehensive comparison of two different algorithms wishing to analyse the cosmic web.
