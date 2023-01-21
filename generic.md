@@ -21,6 +21,7 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
+            <br>
             <img src="{% link assets/images/cosmic_web.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
