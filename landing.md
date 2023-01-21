@@ -1,8 +1,8 @@
 ---
 title: The Beauty of Nature
 layout: landing
-description: 'Posts on random topics I find magical.'
-image: assets/images/pic07.jpg
+description: 'See some topics I find mesmerising.'
+image: assets/images/beauty_nature.jpg
 nav-menu: true
 ---
 
