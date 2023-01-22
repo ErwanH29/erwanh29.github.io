@@ -37,7 +37,7 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-            <img src="{% link assets/images/modified_gravity.png %}" alt="" data-position="bottom" />
+            <img src="{% link assets/images/modified_gravity.jpg %}" alt="" data-position="bottom" />
 		</a>
 	</section>
 </section>
