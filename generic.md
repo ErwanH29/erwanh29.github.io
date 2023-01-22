@@ -42,6 +42,7 @@ nav-menu: true
 		<br><br><br><br>
             <img src="{% link assets/images/fish_school.png %}" alt="" data-position="bottom" />
 		</a>
+	</section>	
 	<section>
 		<div class="content">
 			<div class="inner">
