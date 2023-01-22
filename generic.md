@@ -39,7 +39,6 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-		<br><br><br><br>
             <img src="{% link assets/images/fish_school.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>	
@@ -59,7 +58,7 @@ nav-menu: true
 		</div>
 		<a class="image">
 		<br><br><br><br>
-            <img src="{% link assets/images/imbh.png %}" alt="" data-position="bottom" />
+            <img src="{% link assets/images/modified_gravity.jpg %}" alt="" data-position="bottom" />
 		</a>
 	</section>
 	<section>
@@ -77,8 +76,8 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-		<br><br><br><br>
-            <img src="{% link assets/images/modified_gravity.jpg %}" alt="" data-position="bottom" />
+		<br><br><br>
+            <img src="{% link assets/images/imbh.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
 </section>
