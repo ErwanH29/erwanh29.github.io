@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Modelling Schools of Fish</h3>
 				</header>
-                Active Matter <br>
+                <b>Field</b>: Active Matter <br>
                 <b>Research</b>: Investigating the different emergent behaviours present in schools of fish. <br>
                 <b>Purpose</b>: A recent development in physics has been to model biological systems with basic principles to understand behaviours emerging from such systems. Studying such systems also helps us develop new out-of-equilibrium frameworks for statistical physics. <br>
 				<ul class="actions">
@@ -76,6 +76,7 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
+		<br>
             <img src="{% link assets/images/imbh.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
