@@ -23,5 +23,21 @@ nav-menu: true
 		<a class="image">
             <img src="{% link assets/images/cosmic_web.png %}" alt="" data-position="bottom" />
 		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Testing Modified Gravity Through Gravitational Waves</h3>
+				</header>
+                <b>Field</b>: Cosmology <br>
+                <b>Research</b>: Investigating whether modified gravity leaves any observable imprints on gravitational waves. <br>
+                <b>Purpose</b>: As successful as Einstein's theory of gravity is, we know it can't be the final answer as it doesn't work on the quantum scales. In hopes of better understanding the fundamental laws of our Universe, theorists devise theories of modified gravity each of which having subtle differences with Einstein's theory. <br>
+				<ul class="actions">
+					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3278624'><i>Link to project</i></a></li>
+				</ul>
+			</div>
+		</div>
+		<a class="image">
+            <img src="{% link assets/images/modified_gravity.png %}" alt="" data-position="bottom" />
+		</a>
 	</section>
 </section>
