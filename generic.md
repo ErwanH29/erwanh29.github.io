@@ -49,7 +49,7 @@ nav-menu: true
 					<h3>Testing Modified Gravity Through Gravitational Waves</h3>
 				</header>
                 <b>Field</b>: Theoretical Cosmology <br>
-                <b>Research</b>: Investigating the gravitational wave luminosity distance predicted by sclar-tensor theories of gravity. <br>
+                <b>Research</b>: Investigating the gravitational wave luminosity distance predicted by <i>f(R)</i> gravity. <br>
                 <b>Purpose</b>: As successful as Einstein's theory of gravity is, we know it can't be the final answer as it doesn't work on the quantum scales. In hopes of better understanding the fundamental laws of our Universe, theorists devise theories of modified gravity each of which having subtle differences with Einstein's theory. <br>
 				<ul class="actions">
 					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3278624'><i>Link to project</i></a></li>
