@@ -23,6 +23,9 @@ nav-menu: true
 		<a class="image">
             <img src="{% link assets/images/cosmic_web.png %}" alt="" data-position="bottom" />
 		</a>
+		</a>
+	</section>
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -38,6 +41,5 @@ nav-menu: true
 		</div>
 		<a class="image">
             <img src="{% link assets/images/modified_gravity.jpg %}" alt="" data-position="bottom" />
-		</a>
 	</section>
 </section>
