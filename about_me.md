@@ -50,7 +50,7 @@ nav-menu: true
 <div class="box alt">
 	<div class="row 80% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/mt_saint_michel.JPG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/bayeaux.JPG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/bayeaux.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/sunrise.jpg %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
