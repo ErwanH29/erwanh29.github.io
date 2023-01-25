@@ -25,7 +25,7 @@ nav-menu: true
 
 <hr />
 <h2> Who Am I? </h2>
-<p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture and the people. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. It's impossible to pick one defining picture to summarise my life there, but perhaps my favourite is the one seen on the right. A picture taken of me with my older brother during our first year there. Since then, I've completed both my bachelor's and master's at Dutch universities. Below, you will see some of my interests:</p>
+<p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture and the people. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. On the right you will see a picture taken of me with my older brother during our first year there. Since then, I've completed both my bachelor's and master's at Dutch universities. Below, you will see some of my interests:</p>
 <ul>
 	<li>Playing football.</li>
 	<li>Photography.</li>
