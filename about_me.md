@@ -26,8 +26,9 @@ nav-menu: true
 <hr />
 <h2> Who Am I? </h2>
 <p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture and often find my own values contradicting those often found with Western societies. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. It's impossible to pick one defining picture to summarise my life there, but perhaps my favourite is the one seen on the right. A picture taken of me with my older brother during our first year there. Since then, I've completed both my bachelor's and master's at Dutch universities.</p>
-<h2> My Interests </h2>
+
 <div class="row">
+	<h2> My Interests </h2>
 	<div class="4u 12u$(medium)">
 		<ul>
 			<li>Playing football.</li>
@@ -65,9 +66,9 @@ nav-menu: true
 	<div class="row 80% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/poland.JPG %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/bird_snow.JPG %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/flowers.JPG %}" alt="" /></span></div>
 		<!-- Break -->
