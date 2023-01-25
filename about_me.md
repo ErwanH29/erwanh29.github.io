@@ -43,7 +43,7 @@ nav-menu: true
 </div>
 	
 <h2> Some Photos </h2>
-<span class="image fit"><img src="{% link assets/images/watertown.JPG %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/watertown.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 80% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/mt_saint_michel.JPG %}" alt="" /></span></div>
