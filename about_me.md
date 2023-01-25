@@ -17,15 +17,15 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<blockquote>"It's all a great mystery... Look up at the sky and you'll see how everything changes"</blockquote> - Antoine de Saint-Exupéry, _The Little Prince_
-
+<blockquote>"It's all a great mystery... Look up at the sky and you'll see how everything changes"</blockquote> - Antoine de Saint-Exupéry, <i>The Little Prince</i>
+<br><br><br>
 <p>Being inspired by the beauty of the world around us, I often daydreamed when I was younger. Though topics varied, the notion of time captivated my interest the most. How is it that we can remember the past but not the future? How do we, as a society, synchronise all our clocks? Questions like these often appeared growing up, and with it came a desire to understand nature ever more. Attempting to soothe my curiosity, I have completed an astronomy bachelor's program at Rijksuniversiteit Groningen and am on the course of obtaining a master's degree in physics, specialising in cosmology. </p>
 <p>I chose these programs as I felt they attempted to answer the deep questions of our nature. The ones we have been asking ourselves for millennia; Why are we here? How did the Universe come to be? Perhaps the beauty of these questions lies in the fact that we can never know the answer. Even so, there are many questions we can answer. Both the unanswerable and answerable deeply root themselves in what makes me who I am; a curious but driven student.</p> 
 <p>On this page, you will learn more about me personally. The other pages give an overview of my past projects and topics, which, I feel, bring a sense of magic to life. </p>
 
 <hr />
 <h2> Who Am I? </h2>
-<p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" />As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. Since then, I've completed both my bachelor's and master's at Dutch universities.</p>
+<p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. Since then, I've completed both my bachelor's and master's at Dutch universities.</p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
