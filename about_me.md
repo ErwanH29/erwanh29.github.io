@@ -52,7 +52,7 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 	</div>
 </div>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/notre_dame.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 80% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
