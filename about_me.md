@@ -26,20 +26,23 @@ nav-menu: true
 <hr />
 <h2> Who Am I? </h2>
 <p><span class="image right"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span>As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture and often find my own values contradicting those often found with Western societies. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. It's impossible to pick one defining picture to summarise my life there, but perhaps my favourite is the one seen on the right. A picture taken of me with my older brother during our first year there. Since then, I've completed both my bachelor's and master's at Dutch universities.</p>
-<h3>My Interests:</h3>
-<div class="4u 12u$(medium)">
-	<ul>
-		<li>Playing football.</li>
-		<li>Photography.</li>
-		<li>Bird watching.</li>
-	</ul>
-</div>
-<div class="4u$ 12u$(medium)">
-	<ul>
-		<li>Reading.</li>
-		<li>Scuba Diving.</li>
-		<li>Going to a museum.</li>
-	</ul>
+<div class="row">
+	<div class="4u 12u$(medium)">
+		<h3>My Interests:</h3>
+		<ul>
+			<li>Playing football.</li>
+			<li>Photography.</li>
+			<li>Bird watching.</li>
+		</ul>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3></h3>
+		<ul>
+			<li>Reading.</li>
+			<li>Scuba Diving.</li>
+			<li>Going to a museum.</li>
+		</ul>
+	</div>
 </div>
 	
 <h2> Some Photos </h2>
@@ -47,8 +50,8 @@ nav-menu: true
 <div class="box alt">
 	<div class="row 80% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/mt_saint_michel.JPG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/bayeaux.JPG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/sunrise.jpg %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
