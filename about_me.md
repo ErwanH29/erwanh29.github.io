@@ -26,7 +26,7 @@ nav-menu: true
 <hr />
 <h2> Who Am I? <h2>
 <p>As you could have guessed, my name is Erwan. Although I was born in the suburbs of Paris, I often find it tough to relate to the culture. Right after I was born my family had moved to USA and after a few years, moved to Beijing where I grew up and completed all of my school years. Since then, I've completed both my bachelor's and master's at Dutch universities.</p>
-<span class="image fit"><img src="{% link assets/images/great_wall.jpg %}" alt="" /></span></p>
+<span class="image fit"><img src="{% link assets/images/great_wall.JPG %}" alt="" /></span></p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
