@@ -59,13 +59,13 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/planes.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/poland.JPG %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/factory.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/bird_snow.JPG %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/flowers.JPG %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/leiden_pane.png %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/bird1.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/factory.jpg %}" alt="" /></span></div>
 	</div>
 </div>
 <span class="image fit"><img src="{% link assets/images/leiden_port.jpg %}" alt="" /></span>
