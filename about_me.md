@@ -43,9 +43,9 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/bayeaux.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/sunrise.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/observatory.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/planes.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/poland.JPG %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
@@ -55,9 +55,9 @@ nav-menu: true
 <span class="image fit"><img src="{% link assets/images/notre_dame.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 80% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/observatory.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/planes.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/poland.JPG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/bird_snow.JPG %}" alt="" /></span></div>
