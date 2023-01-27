@@ -59,7 +59,7 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/buildings_pastel.png %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/buildings_pastel.png %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/observatory.jpg %}" alt="" /></span></div>
 		<!-- Break -->
