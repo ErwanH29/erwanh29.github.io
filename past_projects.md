@@ -71,7 +71,7 @@ nav-menu: true
                 <b>Research</b>: Investigating the dynamics of a hypothetical intermediate mass black hole cluster. <br>
                 <b>Purpose</b>: We have yet to understand how supermassive black holes form. Though not yet observed, the hypothetical intermediate-mass black holes may be the key and numerous papers have been published on them, from their proposed observation in clusters to their dynamical effects on environments. <br>
 				<ul class="actions">
-					<li><a href=''><i>Link to come</i></a></li>
+					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3563926'><i>Link to report</i></a></li>
 				</ul>
 			</div>
 		</div>
