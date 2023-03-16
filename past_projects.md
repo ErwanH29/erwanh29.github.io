@@ -28,6 +28,24 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>The Milky Way and its Exotic Milisecond Pulsar Population</h3>
+				</header>
+                <b>Field</b>: Computational Astrophysics <br>
+                <b>Research</b>: Investigating the possibility of Milky Way millisecond pulsars originative from the Large Magellanic Cloud. <br>
+                <b>Purpose</b>: Millisecond pulsars are some of the most exotic celestial objects known in the Universe. The analysis aims to predict whetherthe asymmetrical kick velocity felt at birth may cause some of them to migrate between galactic systems and whether we should expect a surplus of its population lying on the outskirts of the Milky Way <br>
+				<ul class="actions">
+					<li><a href='https://github.com/ErwanH29/Team-B-Millisecond-Pulsars'><i>Link to GitHub</i></a></li>
+				</ul>
+			</div>
+		</div>
+		<a class="image">
+            <img src="{% link assets/images/msp.png %}" alt="" data-position="bottom" />
+		</a>
+	</section>		
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>Modelling Schools of Fish</h3>
 				</header>
                 <b>Field</b>: Active Matter <br>
