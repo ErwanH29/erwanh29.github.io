@@ -39,6 +39,7 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
+		<br><br>
             <img src="{% link assets/images/msp.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>		
