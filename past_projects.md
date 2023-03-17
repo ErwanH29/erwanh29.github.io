@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
                 <b>Field</b>: Computational Astrophysics <br>
                 <b>Research</b>: Investigating the possibility of Milky Way millisecond pulsars originative from the Large Magellanic Cloud. <br>
-                <b>Purpose</b>: Millisecond pulsars are some of the most exotic celestial objects known in the Universe. The analysis aims to predict whetherthe asymmetrical kick velocity felt at birth may cause some of them to migrate between galactic systems and whether we should expect a surplus of its population lying on the outskirts of the Milky Way <br>
+                <b>Purpose</b>: Millisecond pulsars are some of the most exotic celestial objects known in the Universe. The analysis aims to predict whether the asymmetrical kick velocity felt at birth may cause some of them to migrate between galactic systems and whether we should expect a surplus of its population lying on the outskirts of the Milky Way <br>
 				<ul class="actions">
 					<li><a href='https://github.com/ErwanH29/Team-B-Millisecond-Pulsars'><i>Link to GitHub</i></a></li>
 				</ul>
