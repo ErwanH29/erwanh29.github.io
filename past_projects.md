@@ -65,6 +65,27 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<h3>Low-Frequency Radio Astronomy from the Moon</h3>
+				</header>
+                <b>Field</b>: Radio Astronomy <br>
+                <b>Research</b>: Investigating the scientific benefits of a Lunar radio interferometer. <br>
+                <b>Purpose</b>: With space agencies having their sights locked onto a Lunar base, the prospect of building a sensitive lunar interferometer becomes ever more enticing. With its ability to peer into the Dark Ages and possibly revolutionise cosmology, such an ambitious mission is worth to take a deeper look into. <br>
+				<ul class="actions">
+					<li><a href='https://www.linkedin.com/in/erwan-hochart/overlay/experience/1795929067/multiple-media-viewer/?profileId=ACoAADInhz4BJFEyZtfESN909ISsuUOcK5oPlho&treasuryMediaId=1635499510228'><i>Link to full report.</i></a></li> 
+				</ul>
+				<ul class="actions">
+					<li><a href='https://sservi.nasa.gov/els2023/program/'><i>Link to ELS Padova 2023 abstracts (pg 142-145).</i></a></li> 
+				</ul>
+			</div>
+		</div>
+		<a class="image">
+            <img src="{% link assets/images/lunar_astronomy.png %}" alt="" data-position="bottom" />
+		</a>
+	</section>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
 					<h3>Testing Modified Gravity Through Gravitational Waves</h3>
 				</header>
                 <b>Field</b>: Theoretical Cosmology <br>
