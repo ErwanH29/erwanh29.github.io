@@ -77,7 +77,6 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-			<br>
             <img src="{% link assets/images/lunar_astronomy.png %}" alt="" data-position="middle" />
 		</a>
 	</section>
