@@ -73,12 +73,14 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href='https://www.linkedin.com/in/erwan-hochart/overlay/experience/1795929067/multiple-media-viewer/?profileId=ACoAADInhz4BJFEyZtfESN909ISsuUOcK5oPlho&treasuryMediaId=1635499510228'><i>Link to full report.</i></a></li> 
 				</ul>
+				<br>
 				<ul class="actions">
 					<li><a href='https://sservi.nasa.gov/els2023/program/'><i>Link to ELS Padova 2023 abstracts (pg 142-145).</i></a></li> 
 				</ul>
 			</div>
 		</div>
 		<a class="image">
+			<br><br><br>
             <img src="{% link assets/images/lunar_astronomy.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
