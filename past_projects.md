@@ -31,7 +31,7 @@ nav-menu: true
 					<h3>The Milky Way and its Exotic Milisecond Pulsar Population</h3>
 				</header>
                 <b>Field</b>: Computational Astrophysics <br>
-                <b>Research</b>: Investigating the possibility of Milky Way millisecond pulsars originative from the Large Magellanic Cloud. <br>
+                <b>Research</b>: Investigating the possibility of Milky Way millisecond pulsars originating from the Large Magellanic Cloud. <br>
                 <b>Purpose</b>: Millisecond pulsars are some of the most exotic celestial objects known in the Universe. The analysis aims to predict whether the asymmetrical kick velocity felt at birth may cause some of them to migrate between galactic systems and whether we should expect a surplus of its population lying on the outskirts of the Milky Way <br>
 				<ul class="actions">
 					<li><a href='https://github.com/ErwanH29/Team-B-Millisecond-Pulsars'><i>Link to GitHub</i></a></li>
@@ -51,7 +51,7 @@ nav-menu: true
 				</header>
                 <b>Field</b>: Active Matter <br>
                 <b>Research</b>: Investigating the different emergent behaviours present in schools of fish. <br>
-                <b>Purpose</b>: A recent development in physics has been to model biological systems with basic principles to understand behaviours emerging from such systems. Studying such systems also helps us develop new out-of-equilibrium frameworks for statistical physics. <br>
+                <b>Purpose</b>: A recent development in physics has been to model biological systems with basic principles to understand emergent behaviours. Studying such systems also helps us develop new out-of-equilibrium frameworks for statistical physics. <br>
 				<ul class="actions">
 					<li><a href='https://docs.google.com/presentation/d/1OAJfrBpMzJs-HojhwO3v9BqsTYam-mf8/edit?usp=sharing&ouid=117387893329040448761&rtpof=true&sd=true'><i>Link to presentation</i></a></li>
 				</ul>
@@ -107,7 +107,7 @@ nav-menu: true
 				</header>
                 <b>Field</b>: Computational Astrophysics <br>
                 <b>Research</b>: Investigating the dynamics of a hypothetical intermediate mass black hole cluster. <br>
-                <b>Purpose</b>: We have yet to understand how supermassive black holes form. Though not yet observed, the hypothetical intermediate-mass black holes may be the key and numerous papers have been published on them, from their proposed observation in clusters to their dynamical effects on environments. <br>
+                <b>Purpose</b>: We have yet to understand how supermassive black holes form. Though not yet observed, the hypothetical intermediate-mass black holes may be the key, a cluster of which living in the galactic center can help growth through mergers. <br>
 				<ul class="actions">
 					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3563926'><i>Link to report</i></a></li>
 				</ul>
