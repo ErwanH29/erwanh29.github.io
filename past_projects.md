@@ -133,8 +133,8 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-		<br>
-            <img src="{% link assets/images/jumbo.png %}" alt="" data-position="bottom" />
+		<br><br>
+            <img src="{% link assets/images/jumbo.pdf %}" alt="" data-position="bottom" />
 		</a>
 	</section>
 </section>
