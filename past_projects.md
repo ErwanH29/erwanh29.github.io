@@ -118,4 +118,23 @@ nav-menu: true
             <img src="{% link assets/images/imbh.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Origin and Evolution of Wide Jupiter Mass Binary Objects in Young Stellar Clusters</h3>
+				</header>
+                <b>Field</b>: Computational Astrophysics <br>
+                <b>Research</b>: Investigating the origin of Jupiter Mass Binary Objects (JuMBOs). <br>
+                <b>Purpose</b>: The observation of a significant JuMBO population has stumped both dynamicists and theorists working on star formation. Here, we investigate what is the origin of such objects. <br>
+				<ul class="actions">
+					<li><a href='https://arxiv.org/pdf/2312.04645.pdf'><i>Link to paper</i></a></li>
+				</ul>
+			</div>
+		</div>
+		<a class="image">
+		<br>
+            <img src="{% link assets/images/jumbo.png %}" alt="" data-position="bottom" />
+		</a>
+	</section>
 </section>
