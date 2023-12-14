@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Modelling Schools of Fish</h3>
 				</header>
-                <b>Field</b>: Active Matter <br>
+                <b>Field</b>: Computational Physics; Active Matter <br>
                 <b>Research</b>: Investigating the different emergent behaviours present in schools of fish. <br>
                 <b>Purpose</b>: A recent development in physics has been to model biological systems with basic principles to understand emergent behaviours. Studying such systems also helps us develop new out-of-equilibrium frameworks for statistical physics. <br>
 				<ul class="actions">
@@ -105,11 +105,11 @@ nav-menu: true
 				<header class="major">
 					<h3>The Steady State of Intermediate-Mass Black Holes Near a Supermassive Black Hole</h3>
 				</header>
-                <b>Field</b>: Computational Astrophysics; Astrophysics of Galaxies; Gravitational Waves <br>
+                <b>Field</b>: Computational Astrophysics; Gravitational Waves <br>
                 <b>Research</b>: Investigating the dynamics of a hypothetical intermediate mass black hole cluster. <br>
                 <b>Purpose</b>: We have yet to understand how supermassive black holes form. Though not yet observed, the hypothetical intermediate-mass black holes may be the key, a cluster of which living in the galactic center can help growth through mergers. <br>
 				<ul class="actions">
-					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3563926'><i>Link to thesist</i></a></li> <br>
+					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3563926'><i>Link to thesis</i></a></li>; 
 					<li><a href='https://arxiv.org/pdf/2312.05351.pdf'><i>Link to paper</i></a></li>
 				</ul>
 			</div>
@@ -134,7 +134,6 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-		<br>
             <img src="{% link assets/images/jumbo.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
