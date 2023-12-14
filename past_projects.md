@@ -16,7 +16,7 @@ nav-menu: true
                 <b>Research</b>: Comparing two different algorithms investigating the cosmic web. <br>
                 <b>Purpose</b>: The cosmic web defines the structure of our Universe on the largest scales. Understanding how this structure emerges lets us peer into the nature of our Universe, namely the way gravity acts on the largest scales and how it shapes our Universe. <br>
                 <ul class="actions">
-					<li><a href='https://fse.studenttheses.ub.rug.nl/22546/'><i>Link to project</i></a></li>
+					<li><a href='https://fse.studenttheses.ub.rug.nl/22546/'><i>Link to thesis</i></a></li>
 				</ul>
 			</div>
 		</div>
@@ -71,7 +71,7 @@ nav-menu: true
                 <b>Research</b>: Investigating the scientific benefits of a Lunar radio interferometer. <br>
                 <b>Purpose</b>: With space agencies having their sights locked onto a Lunar base, the prospect of building a sensitive lunar interferometer becomes ever more enticing. With its ability to peer into the Dark Ages and possibly revolutionise cosmology, such an ambitious mission is worth to take a deeper look into. <br>
 				<ul class="actions">
-					<li><a href='https://www.linkedin.com/in/erwan-hochart/overlay/experience/1795929067/multiple-media-viewer/?profileId=ACoAADInhz4BJFEyZtfESN909ISsuUOcK5oPlho&treasuryMediaId=1635499510228'><i>Link to full report.</i></a></li>
+					<li><a href='https://www.linkedin.com/in/erwan-hochart/overlay/experience/1795929067/multiple-media-viewer/?profileId=ACoAADInhz4BJFEyZtfESN909ISsuUOcK5oPlho&treasuryMediaId=1635499510228'><i>Link to report.</i></a></li>
 				</ul>
 			</div>
 		</div>
@@ -90,7 +90,7 @@ nav-menu: true
                 <b>Research</b>: Investigating the gravitational wave luminosity distance predicted by <i>f(R)</i> gravity. <br>
                 <b>Purpose</b>: As successful as Einstein's theory of gravity is, we know it can't be the final answer as it doesn't work on the quantum scales. In hopes of better understanding the fundamental laws of our Universe, theorists devise theories of modified gravity, each of which has subtle differences from Einstein's theory. <br>
 				<ul class="actions">
-					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3278624'><i>Link to project</i></a></li>
+					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3278624'><i>Link to thesis</i></a></li>
 				</ul>
 			</div>
 		</div>
@@ -103,13 +103,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Hypothetical Population of Intermediate-Mass Black Holes In the Galactic Nucleus</h3>
+					<h3>The Steady State of Intermediate-Mass Black Holes Near a Supermassive Black Hole</h3>
 				</header>
                 <b>Field</b>: Computational Astrophysics; Astrophysics of Galaxies; Gravitational Waves <br>
                 <b>Research</b>: Investigating the dynamics of a hypothetical intermediate mass black hole cluster. <br>
                 <b>Purpose</b>: We have yet to understand how supermassive black holes form. Though not yet observed, the hypothetical intermediate-mass black holes may be the key, a cluster of which living in the galactic center can help growth through mergers. <br>
 				<ul class="actions">
-					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3563926'><i>Link to report</i></a></li> <br>
+					<li><a href='https://studenttheses.universiteitleiden.nl/handle/1887/3563926'><i>Link to thesist</i></a></li> <br>
 					<li><a href='https://arxiv.org/pdf/2312.05351.pdf'><i>Link to paper</i></a></li>
 				</ul>
 			</div>
@@ -134,7 +134,7 @@ nav-menu: true
 			</div>
 		</div>
 		<a class="image">
-		<br><br>
+		<br>
             <img src="{% link assets/images/jumbo.png %}" alt="" data-position="bottom" />
 		</a>
 	</section>
