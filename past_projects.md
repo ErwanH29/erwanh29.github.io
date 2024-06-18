@@ -130,8 +130,8 @@ nav-menu: true
                 <b>Research</b>: Investigating the origin of Jupiter Mass Binary Objects (JuMBOs). <br>
                 <b>Purpose</b>: The observation of a significant JuMBO population has stumped both dynamicists and theorists working on star formation. Here, we investigate what is the origin of such objects. <br>
 				<ul class="actions">
-					<li><a href='https://arxiv.org/pdf/2312.04645.pdf'><i>Link to paper</i></a>
-					    <a href='https://exoplanets5.org/wp-content/uploads/1648-1.pdf'><i>Link to poster</i>I>
+					<li><a href='https://arxiv.org/pdf/2312.04645.pdf'><i>Link to paper;</i></a>
+					    <a href='https://exoplanets5.org/wp-content/uploads/1648-1.pdf'><i>Link to poster</i><a>
 					</li>
 				</ul>
 			</div>
