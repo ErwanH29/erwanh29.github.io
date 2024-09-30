@@ -132,6 +132,7 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href='https://arxiv.org/pdf/2312.04645.pdf'><i>Link to paper;</i></a>
 					    <a href='https://exoplanets5.org/wp-content/uploads/1648-1.pdf'><i>Link to poster</i></a>
+					    <a href='https://youtu.be/i1QKVrcf4ps'><i>Link to a sample simulation. </i>
 					</li>
 				</ul>
 			</div>
